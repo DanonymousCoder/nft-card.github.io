@@ -15,6 +15,6 @@ body {
     flex-direction: column;
     justify-content: center;
 }
-.container img {
+.container .img img {
     height: 300px;
 }
