@@ -25,7 +25,7 @@ body {
 }
 .eth-a {
     display: flex;
-    gap: 3rem;
+    gap: 4rem;
 }
 .container .img img {
     height: 200px;
