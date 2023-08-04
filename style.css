@@ -23,7 +23,7 @@ body {
     padding: 10px;
 }
 .eth-a {
-    display
+    display: flex;
 }
 .container .img img {
     height: 200px;
