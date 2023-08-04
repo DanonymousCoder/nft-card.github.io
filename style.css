@@ -25,6 +25,7 @@ body {
 }
 .eth-a {
     display: flex;
+    margin-top: 5px;
     gap: 6rem;
 }
 .container .img img {
