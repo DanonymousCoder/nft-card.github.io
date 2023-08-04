@@ -15,6 +15,7 @@ body {
     background-image: url('./images/active-states.jpg');
     display: flex;
     flex-direction: column;
+    gap: 1rem;
     align-self: center;
     align-items: center;
     justify-content: center;
