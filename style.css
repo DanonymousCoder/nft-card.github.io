@@ -30,6 +30,7 @@ body {
 }
 .attribution {
     display: flex;
+    gap: .5rem;
 }
 .attribution img {
     height: 50px;
