@@ -6,7 +6,7 @@
 body {
     background-image: url('./images/desktop-design.jpg');
     display: flex;
-    
+    justify-content: center;
 }
 .container {
     background-image: url('./images/active-states.jpg');
