@@ -28,3 +28,6 @@ body {
 .container .img img {
     height: 200px;
 }
+.attribution img {
+    height: 40px;
+}
