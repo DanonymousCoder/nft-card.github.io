@@ -34,3 +34,6 @@ body {
 .attribution img {
     height: 50px;
 }
+.attribution p {
+    margin-top: 7px;
+}
