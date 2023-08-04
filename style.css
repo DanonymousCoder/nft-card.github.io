@@ -28,6 +28,9 @@ body {
 .container .img img {
     height: 200px;
 }
+.attribution {
+    display: flex;
+}
 .attribution img {
     height: 50px;
 }
