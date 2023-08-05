@@ -104,6 +104,7 @@ hr {
   /* Style for the eye icon */
   .image-container .overlay img {
     height: 50px;
+    width: 50px;
     color: white;
   }
   
