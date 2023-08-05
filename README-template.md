@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://danonymouscoder.github.io/nft-card.github.io/)
+- Solution URL: [Add solution URL here](https://github.com/DanonymousCoder/nft-card.github.io/)
 - Live Site URL: [Add live site URL here](https://danonymouscoder.github.io/nft-card.github.io/)
 
 ## My process
