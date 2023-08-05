@@ -25,20 +25,9 @@ body {
 .eth-a {
     display: flex;
     margin-top: 8px;
-    gap: 5rem;
 }
 .container .img img {
     height: 210px;
     width: 226px;
     border-radius: 10px;
-}
-.attribution {
-    display: flex;
-    gap: .5rem;
-}
-.attribution img {
-    height: 50px;
-}
-.attribution p {
-    margin-top: 7px;
 }
