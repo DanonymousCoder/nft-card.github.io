@@ -68,6 +68,7 @@ hr {
 .attribution img {
     height: 30px;
     border: 1px solid white;
+    border-radius: 50%;
 }
 .attribution p {
     margin-top: 7px;
