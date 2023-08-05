@@ -16,6 +16,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-content: center;
     height: 430px;
     width: 251px;
     padding: 20px;
