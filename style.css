@@ -64,6 +64,7 @@ hr {
 .attribution {
     display: flex;
     gap: 1rem;
+    margin-top: 15px;
 }
 .attribution img {
     height: 30px;
