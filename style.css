@@ -44,7 +44,7 @@ body {
     margin-bottom: 15px;
 }
 .equi p.head:hover {
-
+    color: hsl(178, 100%, 50%);
 }
 .equi p.sub {
     font-size: 15px;
