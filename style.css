@@ -58,3 +58,6 @@ body {
 .eth-a p.timer {
     color: hsl(215, 51%, 70%);
 }
+hr {
+    border: 3px solid hsl(215, 32%, 27%);
+}
