@@ -33,6 +33,8 @@ body {
 }
 .equi {
     margin-top: 5px;
+    margin: 0;
+    padding: 0;
 }
 .equi p.head {
     color: white;
