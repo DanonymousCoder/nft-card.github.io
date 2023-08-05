@@ -49,7 +49,7 @@ body {
 }
 .eth-a {
     display: flex;
-    gap: 4.5rem;
+    gap: 4rem;
 }
 .eth-a p.eth {
     color: hsl(178, 100%, 50%);
