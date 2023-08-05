@@ -43,8 +43,8 @@ body {
     font-size: 20px;
     margin-bottom: 15px;
 }
-.equi p.head {
-    
+.equi p.head:hover {
+
 }
 .equi p.sub {
     font-size: 15px;
