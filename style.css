@@ -30,6 +30,7 @@ body {
     border-radius: 10px;
     margin: 0;
     padding: 0;
+    transition: transform 0.3s;
 }
 .equi {
     margin-top: 20px;
