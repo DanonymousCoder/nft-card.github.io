@@ -125,3 +125,6 @@ hr {
   .image-container:hover .overlay {
     opacity: 1;
   }
+.attribution p a  {
+    color: hsl(178, 100%, 50%);
+}
