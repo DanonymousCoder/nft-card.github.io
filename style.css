@@ -29,8 +29,9 @@ body {
     gap: 5rem;
 }
 .container .img img {
-    height: 180px;
+    height: 210px;
     width: 226px;
+    border-radius: 10px;
 }
 .attribution {
     display: flex;
