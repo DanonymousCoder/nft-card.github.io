@@ -24,7 +24,7 @@ body {
     display: flex;
     margin-top: 8px;
 }
-.container .img img {
+.container .image-container img {
     height: 240px;
     width: 251px;
     border-radius: 10px;
