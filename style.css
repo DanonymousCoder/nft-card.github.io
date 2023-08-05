@@ -50,7 +50,7 @@ body {
 .eth-a {
     display: flex;
     gap: 4rem;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 .eth-a p.eth {
     color: hsl(178, 100%, 50%);
