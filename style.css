@@ -61,3 +61,13 @@ body {
 hr {
     border: 0.1px solid hsl(215, 32%, 27%);
 }
+.attribution {
+    display: flex;
+    gap: .5rem;
+}
+.attribution img {
+    height: 50px;
+}
+.attribution p {
+    margin-top: 7px;
+}
