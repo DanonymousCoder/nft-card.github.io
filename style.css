@@ -67,6 +67,7 @@ hr {
 }
 .attribution img {
     height: 30px;
+    border: 1px solid white;
 }
 .attribution p {
     margin-top: 7px;
