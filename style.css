@@ -30,6 +30,7 @@ body {
 }
 .container .img img {
     height: 100px;
+    width: 240px;
 }
 .attribution {
     display: flex;
