@@ -49,4 +49,5 @@ body {
 }
 .eth-a {
     display: flex;
+    gap: 4rem;
 }
