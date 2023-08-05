@@ -63,7 +63,7 @@ hr {
 }
 .attribution {
     display: flex;
-    gap: .5rem;
+    gap: 1rem;
 }
 .attribution img {
     height: 30px;
