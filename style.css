@@ -76,3 +76,47 @@ hr {
     margin-top: 3px;
     color: white;
 }
+/* Style for the image container */
+.image-container {
+    position: relative;
+    overflow: hidden;
+    width: 300px;
+    height: 200px;
+  }
+  
+  /* Style for the image */
+  .image-container img {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.3s;
+  }
+  
+  /* Style for the overlay */
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Style for the eye icon */
+  .overlay i {
+    font-size: 40px;
+    color: white;
+  }
+  
+  /* Show the overlay and transform the image when hovered */
+  .image-container:hover img {
+    transform: scale(1.1);
+  }
+  
+  .image-container:hover .overlay {
+    opacity: 1;
+  }
