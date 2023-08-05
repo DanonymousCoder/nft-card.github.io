@@ -51,6 +51,6 @@ body {
     display: flex;
     gap: 4.5rem;
 }
-.eth-a p.head {
+.eth-a p.eth {
     color: hsl(178, 100%, 50%);
 }
